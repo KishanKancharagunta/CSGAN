@@ -5,4 +5,4 @@ This is the implementation of our paper called CSGAN: Cyclic-Synthesized Generat
 <br><br><br>
 
 ## Acknowledgments
-Code is taken from CycleGAN Paper [pytorch-CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+code is heavily borrowed from CycleGAN Paper [pytorch-CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).

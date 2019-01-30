@@ -5,4 +5,6 @@ This is the implementation of our paper called CSGAN: Cyclic-Synthesized Generat
 <br><br><br>
 
 ## Acknowledgments
-code is heavily borrowed from CycleGAN Paper [pytorch-CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).
+- We gratefully acknowlege the NVIDIA Corp. for donating us the NVIDIA GeForce Titan X Pascal GPU used for this research.
+
+- code is heavily borrowed from CycleGAN Paper [pytorch-CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix).

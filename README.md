@@ -1,5 +1,5 @@
 # CSGAN Implementation in PyTorch
-This is the implementation of our paper called CSGAN: Cyclic-Synthesized Generative Adversarial Network For Image-to-Image Transformation.
+This is the implementation of our paper called <b>"CSGAN:Cyclic-Synthesized Generative Adversarial Network For Image-to-Image Transformation."<b> <a href="https://arxiv.org/abs/1901.03554">
 ## CSGAN Architectue
 <img src='CSGAN.jpg' align="center" width=600>
 <br><br><br>
